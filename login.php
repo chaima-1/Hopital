@@ -32,7 +32,7 @@
     
 
     //import database
-    //include("connection.php");
+    include("connection.php");
 
     
 
