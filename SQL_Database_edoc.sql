@@ -6,7 +6,7 @@
 -- Generation Time: Jun 19, 2022 at 01:39 PM
 -- Server version: 5.7.26
 -- PHP Version: 7.3.5
-
+include("connection.php");
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
